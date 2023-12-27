@@ -1,0 +1,12 @@
+console.log("=============== Question1 ===========================");
+var sweety = "Sweety";
+var cuties = "Cutie";
+console.log("Before swap");
+console.log("sweety:",sweety);
+console.log("cuties:",cuties);
+console.log("after swap");
+var temp = "sweety";
+sweety = cuties;
+cuties = temp;
+console.log("sweety:",sweety);
+console.log("cuties:",cuties);

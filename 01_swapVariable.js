@@ -12,3 +12,5 @@ n2 = temp;
 console.log("After Swap:");
 console.log("n1 ->", n1);
 console.log("n2 ->", n2);
+
+

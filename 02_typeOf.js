@@ -1,0 +1,18 @@
+console.log("=================== 01 Assign =====================");
+var bankName;
+console.log("Bank Name:",bankName,",","data type of operator:",typeof bankName);
+var bankName = "SBI BANK";
+console.log("Bank Name:",bankName,",","data type of operator:",typeof bankName);
+console.log("=================== 02 Assign =====================");
+var mark = '90%';
+console.log("Mark :",mark,",","data type of operator :",typeof mark);
+console.log("=================== 03 Assign =====================");
+var isworking;
+console.log("IS Working:",isworking,",","data type of operator:",typeof isworking);
+var isworking = true;
+console.log("IS Working:",isworking,",","data type of operator:", typeof isworking);
+console.log("=================== 04 Assign =====================");
+var totalcount ="Hundred and Seven";
+console.log("A) TotalCount:",totalcount,",","data type of operator:",typeof totalcount);
+totalcount = 107;
+console.log("B) TotalCount:",totalcount,",","data type of operator:",typeof totalcount);
