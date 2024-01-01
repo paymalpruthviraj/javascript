@@ -21,3 +21,10 @@ console.log(` / ==>  Division is : ${result}`);
 
 var result = n1 ** 3;
 console.log(` ** ==>  Exponention is : ${result}`);
+var num = 10;
+num += 2; //  num = num + 2;
+console.log(`+= Compund Addition is: ${num} `);
+
+var num = 10;
+num -= 5; //  num = num - 5;
+console.log(`+= Compund Substraction is: ${num} `);
