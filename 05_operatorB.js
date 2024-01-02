@@ -41,4 +41,5 @@ function greaterNumber(num1, num2) {
   
   var result = wordLength("Google");
   console.log(`The length of Google is ${result}.`);
-  
+
+ 
