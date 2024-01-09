@@ -81,6 +81,19 @@ arrayNumber.splice(4,3);
 console.log(arrayNumber);
 
 
+let sum=0;
+for (const index in arrayNumber) {
+  if(index%2!=0){
+    console.log(`${arrayNumber[index]}`);
+    sum=sum+arrayNumber[index];
+  }
+    
+}
+log
+
+
+
+
 
 
 
