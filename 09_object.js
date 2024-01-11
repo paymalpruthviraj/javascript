@@ -89,7 +89,7 @@ for (const element of values) {
 
 }
 
- 
+console.log("================================================================================"); 
 
 console.log(`Object entries....`);
 
@@ -100,6 +100,7 @@ for (const element of entries) {
     console.log(element);
 
 }
+console.log("================================================================================");
 
 console.log(`Accessing nested array element using double [] [] brackets`);
 
