@@ -27,17 +27,17 @@ for (const oddNumber of arrayNumber) {
 }
 console.log("=======================step 6 ==========================");
 
-let sum=0;
+let sum1=0;
 for(let i=0; i<arrayNumber.length; i++){
    
    if(i%2==0){
     let evenNum=arrayNumber[i];
     
-    sum = sum + evenNum;
+    sum1 = sum1 + evenNum;
     console.log(evenNum);
    }  
      }
-     console.log(`Sum of even-positioned element is:${sum}`);
+     console.log(`Sum of even-positioned element is:${sum1}`);
      console.log("=======================step 7 ==========================");
      let add=0;
      for(let i=0;i<arrayNumber.length;i++){
@@ -89,7 +89,7 @@ for (const index in arrayNumber) {
   }
     
 }
-log
+
 
 
 
