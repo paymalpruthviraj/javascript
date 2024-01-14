@@ -22,8 +22,8 @@ console.log(`Is element available`);
 console.log(setOfRollNum.has(22));
 
 console.log(`Removing duplicate elements from an array`);
-let array = [44, 22, 33, 44, 22, 66, 77];
-console.log(array);
+let array1 = [44, 22, 33, 44, 22, 66, 77];
+console.log(array1);
 
 const newArray = [...new Set(array)];
 console.log(newArray);
