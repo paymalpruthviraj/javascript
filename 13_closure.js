@@ -11,6 +11,5 @@ function outerFun() {
     return innerFun;
 
 }
-// let  result = outerFun();
-// result();
+
 outerFun()();
