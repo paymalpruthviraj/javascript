@@ -87,7 +87,7 @@ const totalSalary = itDept.reduce((runningTotal, element) => {
   return runningTotal + element.emp_salary;
 }, 0);
 
-console.log(
-  `Total IT department salary is ${totalSalary} and number of employees is: ${itDept.length}`
-);
+//console.log(
+//  `Total IT department salary is ${totalSalary} and number of employees is: ${itDept.length}`
+//);
 console.log(`The average Salary is: ${totalSalary / itDept.length}`);
