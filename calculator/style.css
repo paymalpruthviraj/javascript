@@ -1,0 +1,63 @@
+.container{
+    height: 300px;
+    width:800px;
+    border: 1px solid;
+    margin-left: 330px;
+    border-radius: 3px;
+    margin-top: 200px;
+  
+    
+}
+.result{
+    text-align: center;
+    font-size: 25px;
+    padding-top: 50px;
+    padding-bottom: 10px;
+}
+.inputFields{
+    margin-left: 84px;
+    padding-top: 20px;
+    
+}
+.inputFields label {
+    display: inline-block;
+    margin-right: 5px; 
+    padding-left: 10px;
+    font-weight: bolder;
+}
+
+.inputFields input {
+    display: inline-block;
+}
+#divbuttion{
+    margin-left: 113px;
+    margin-top: 40px;
+}
+button {
+    margin-right: 40px; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 10px;
+    font-weight: bolder;
+    
+}
+#field-one{
+    height: 25px;
+    border-radius: 5px;
+}
+#field-two{
+    height: 25px;
+    border-radius: 5px;
+}
+body {
+    background-color:#e6ffe6; 
+    background-image: url(assets/bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+#main{
+    font-weight: bolder;
+}
