@@ -1,10 +1,20 @@
-const array = [34,56,78,90,45,95,76,60];
-let arrayLength= array.length;
-
-
-let sum=0;
-for (const element of array) {
-   sum=sum+element;
+for (let index=0; index<=5; index++){
+    if(index==2){
+        break;
+    }
+    console.log(index);
 }
-let average=sum/arrayLength;
-console.log(average);
+
+for(let index=0; index<=5; index++){
+    if(index==2){
+        break;
+    }
+    console.log(index);
+}
+
+for(let index=0; index<=5; index++){
+    if(index==2){
+        continue;
+    }
+    console.log(index);
+}
