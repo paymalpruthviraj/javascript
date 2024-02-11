@@ -1,4 +1,4 @@
-const isNotesAvailable = false;
+const isNotesAvailable = true;
 // const promiseNotes = new Promise(function(success, reject){
 //     if (isNotesAvailable) {
 //         success("Sharing the notes.. Here you go..");
